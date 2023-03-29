@@ -6,3 +6,5 @@ final setting " ready to launch"
 major resetting from CEO
 ABORD ALL MINOR WORK
 we are ready to launch 
+---------------------------
+market not ready wait !!!
