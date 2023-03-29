@@ -5,3 +5,5 @@ git respond
 final setting " ready to launch"
 major resetting from CEO
 ABORD ALL MINOR WORK
+---------------------------
+market not ready wait !!!
